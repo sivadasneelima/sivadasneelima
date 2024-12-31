@@ -1,6 +1,6 @@
 # Hi there! this is Neelima 👋 :fire:
 
-<img src="" alt="banner that says Sivadas Neelima - R and D Engineer, Author, Content Developer, Speaker, and Podcast Creator alongside a cartoon illustration of Neelima">
+<img src="https://github.com/sivadasneelima/sivadasneelima/blob/main/Github%20profile.png" alt="banner that says Sivadas Neelima - R and D Engineer, Author, Content Developer, Speaker, and Podcast Creator alongside a cartoon illustration of Neelima">
 I'm a Research and Development Engineer working in blockchain and a dedicated learner. I wish to contribute to blockchain and web3 and empower the community around the world. Some of the technologies that I am keen to explore include ReactJS, Javascript APIs, NodeJS, Docker, MongoDB. Programming languages that I am acquainted with include C, HTML, Python and Solidity. 🌟
 
 
