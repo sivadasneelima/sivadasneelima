@@ -4,7 +4,7 @@
 I'm a Research and Development Engineer working in blockchain and a dedicated learner. I wish to contribute to blockchain and web3 and empower the community around the world. Some of the technologies that I am keen to explore include ReactJS, Javascript APIs, NodeJS, Docker, MongoDB. Programming languages that I am acquainted with include C, HTML, Python and Solidity. 🌟
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: <img align="right" width="150" height="150" src="">
 
 - Connect with me on <a href="https://www.linkedin.com/in/sivadas-neelima-95493a43">Linkedin</a> 💼       
 - Build with me at <a href="https://github.com/sivadasneelima">GitHub</a> 🏓
